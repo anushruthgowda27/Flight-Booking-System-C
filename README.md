@@ -1,4 +1,3 @@
-# Flight-Booking-System-C
 # Flight and Seat Booking System
 
 This project implements a flight and seat booking system in C, incorporating features such as flight management, seat booking, cancellation, and payment transactions. It uses a binary search tree (BST) to manage flight data and a linked list to maintain seat booking history.
